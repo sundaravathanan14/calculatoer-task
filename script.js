@@ -20,7 +20,6 @@ function createCalc(){
     var thirdRow=["4","5","6","-"];
     var forthRow=["1","2","3","+"];
     var fifthRow=["00","0","="];
-    var test ="'/'";
 for(let i=0;i<5;i++){
     if(i==0){
         var div = document.createElement('div');
